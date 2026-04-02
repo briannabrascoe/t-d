@@ -1,0 +1,194 @@
+{
+  "colors": {
+    "celeste_blue": {
+      "label": "Celeste Blue",
+      "rgb": [
+        0.4,
+        0.65,
+        0.85
+      ],
+      "hex": "#66A6D9",
+      "angles": {
+        "front_quarter": "celeste_blue/celeste_blue_front_quarter.png",
+        "rear_quarter": "celeste_blue/celeste_blue_rear_quarter.png",
+        "side_profile": "celeste_blue/celeste_blue_side_profile.png",
+        "wheel_detail": "celeste_blue/celeste_blue_wheel_detail.png",
+        "interior": "celeste_blue/celeste_blue_interior.png",
+        "top_down": "celeste_blue/celeste_blue_top_down.png"
+      }
+    },
+    "blue_scuro": {
+      "label": "Blue Scuro",
+      "rgb": [
+        0.1,
+        0.18,
+        0.4
+      ],
+      "hex": "#192E66",
+      "angles": {
+        "front_quarter": "blue_scuro/blue_scuro_front_quarter.png",
+        "rear_quarter": "blue_scuro/blue_scuro_rear_quarter.png",
+        "side_profile": "blue_scuro/blue_scuro_side_profile.png",
+        "wheel_detail": "blue_scuro/blue_scuro_wheel_detail.png",
+        "interior": "blue_scuro/blue_scuro_interior.png",
+        "top_down": "blue_scuro/blue_scuro_top_down.png"
+      }
+    },
+    "bianco_polo": {
+      "label": "Bianco Polo",
+      "rgb": [
+        0.96,
+        0.96,
+        0.95
+      ],
+      "hex": "#F5F5F2",
+      "angles": {
+        "front_quarter": "bianco_polo/bianco_polo_front_quarter.png",
+        "rear_quarter": "bianco_polo/bianco_polo_rear_quarter.png",
+        "side_profile": "bianco_polo/bianco_polo_side_profile.png",
+        "wheel_detail": "bianco_polo/bianco_polo_wheel_detail.png",
+        "interior": "bianco_polo/bianco_polo_interior.png",
+        "top_down": "bianco_polo/bianco_polo_top_down.png"
+      }
+    },
+    "nero": {
+      "label": "Nero",
+      "rgb": [
+        0.05,
+        0.05,
+        0.05
+      ],
+      "hex": "#0D0D0D",
+      "angles": {
+        "front_quarter": "nero/nero_front_quarter.png",
+        "rear_quarter": "nero/nero_rear_quarter.png",
+        "side_profile": "nero/nero_side_profile.png",
+        "wheel_detail": "nero/nero_wheel_detail.png",
+        "interior": "nero/nero_interior.png",
+        "top_down": "nero/nero_top_down.png"
+      }
+    },
+    "rosso_dino": {
+      "label": "Rosso Dino",
+      "rgb": [
+        0.72,
+        0.08,
+        0.08
+      ],
+      "hex": "#B81414",
+      "angles": {
+        "front_quarter": "rosso_dino/rosso_dino_front_quarter.png",
+        "rear_quarter": "rosso_dino/rosso_dino_rear_quarter.png",
+        "side_profile": "rosso_dino/rosso_dino_side_profile.png",
+        "wheel_detail": "rosso_dino/rosso_dino_wheel_detail.png",
+        "interior": "rosso_dino/rosso_dino_interior.png",
+        "top_down": "rosso_dino/rosso_dino_top_down.png"
+      }
+    },
+    "oro_chiaro": {
+      "label": "Oro Chiaro",
+      "rgb": [
+        0.85,
+        0.72,
+        0.3
+      ],
+      "hex": "#D9B84D",
+      "angles": {
+        "front_quarter": "oro_chiaro/oro_chiaro_front_quarter.png",
+        "rear_quarter": "oro_chiaro/oro_chiaro_rear_quarter.png",
+        "side_profile": "oro_chiaro/oro_chiaro_side_profile.png",
+        "wheel_detail": "oro_chiaro/oro_chiaro_wheel_detail.png",
+        "interior": "oro_chiaro/oro_chiaro_interior.png",
+        "top_down": "oro_chiaro/oro_chiaro_top_down.png"
+      }
+    },
+    "verde_scuro": {
+      "label": "Verde Scuro",
+      "rgb": [
+        0.12,
+        0.28,
+        0.14
+      ],
+      "hex": "#1E4724",
+      "angles": {
+        "front_quarter": "verde_scuro/verde_scuro_front_quarter.png",
+        "rear_quarter": "verde_scuro/verde_scuro_rear_quarter.png",
+        "side_profile": "verde_scuro/verde_scuro_side_profile.png",
+        "wheel_detail": "verde_scuro/verde_scuro_wheel_detail.png",
+        "interior": "verde_scuro/verde_scuro_interior.png",
+        "top_down": "verde_scuro/verde_scuro_top_down.png"
+      }
+    },
+    "turchese_molvedo": {
+      "label": "Turchese Molvedo",
+      "rgb": [
+        0.15,
+        0.65,
+        0.6
+      ],
+      "hex": "#26A699",
+      "angles": {
+        "front_quarter": "turchese_molvedo/turchese_molvedo_front_quarter.png",
+        "rear_quarter": "turchese_molvedo/turchese_molvedo_rear_quarter.png",
+        "side_profile": "turchese_molvedo/turchese_molvedo_side_profile.png",
+        "wheel_detail": "turchese_molvedo/turchese_molvedo_wheel_detail.png",
+        "interior": "turchese_molvedo/turchese_molvedo_interior.png",
+        "top_down": "turchese_molvedo/turchese_molvedo_top_down.png"
+      }
+    },
+    "marrone_dino": {
+      "label": "Marrone Dino",
+      "rgb": [
+        0.38,
+        0.22,
+        0.12
+      ],
+      "hex": "#61381F",
+      "angles": {
+        "front_quarter": "marrone_dino/marrone_dino_front_quarter.png",
+        "rear_quarter": "marrone_dino/marrone_dino_rear_quarter.png",
+        "side_profile": "marrone_dino/marrone_dino_side_profile.png",
+        "wheel_detail": "marrone_dino/marrone_dino_wheel_detail.png",
+        "interior": "marrone_dino/marrone_dino_interior.png",
+        "top_down": "marrone_dino/marrone_dino_top_down.png"
+      }
+    },
+    "grigio_argento": {
+      "label": "Grigio Argento",
+      "rgb": [
+        0.55,
+        0.55,
+        0.55
+      ],
+      "hex": "#8C8C8C",
+      "angles": {
+        "front_quarter": "grigio_argento/grigio_argento_front_quarter.png",
+        "rear_quarter": "grigio_argento/grigio_argento_rear_quarter.png",
+        "side_profile": "grigio_argento/grigio_argento_side_profile.png",
+        "wheel_detail": "grigio_argento/grigio_argento_wheel_detail.png",
+        "interior": "grigio_argento/grigio_argento_interior.png",
+        "top_down": "grigio_argento/grigio_argento_top_down.png"
+      }
+    },
+    "giallo_dino": {
+      "label": "Giallo Dino",
+      "rgb": [
+        0.95,
+        0.82,
+        0.1
+      ],
+      "hex": "#F2D11A",
+      "angles": {
+        "front_quarter": "giallo_dino/giallo_dino_front_quarter.png",
+        "rear_quarter": "giallo_dino/giallo_dino_rear_quarter.png",
+        "side_profile": "giallo_dino/giallo_dino_side_profile.png",
+        "wheel_detail": "giallo_dino/giallo_dino_wheel_detail.png",
+        "interior": "giallo_dino/giallo_dino_interior.png",
+        "top_down": "giallo_dino/giallo_dino_top_down.png"
+      }
+    }
+  },
+  "default_color": "bianco_polo",
+  "default_angle": "front_quarter",
+  "glb": "topo-daytona-optimized.glb"
+}
